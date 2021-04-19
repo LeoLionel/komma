@@ -1,0 +1,9 @@
+No of words in the corpus: 71,145,752
+No of different words in the corpus: 1,376,034
+Percentage of words that just occur once: 54.73774630568722
+Percentage of words that occur up to five times: 81.51833457603519
+Percentage of words that occur up to ten times: 88.06853609721853
+Percentage of words that occur up to 25 times: 93.50379423764238
+Percentage of words that occur up to 50 times: 95.97836972051562
+No of sentences: 5,160,488
+Percentage of sentences with one or more commas: 45
